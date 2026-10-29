@@ -1,0 +1,5 @@
+flask>=3.0
+pillow
+# Optional AI (zero-shot CLIP). App works without these; citizen picks category manually.
+# transformers
+# torch
